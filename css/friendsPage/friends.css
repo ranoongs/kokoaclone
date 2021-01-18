@@ -75,6 +75,9 @@
     color: skyblue;
     
 }
+.nav__btn-ex:hover{
+    color: skyblue;
+}
 .fa-cog:hover{
     color: skyblue;
 }
